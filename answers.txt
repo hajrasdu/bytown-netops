@@ -1,0 +1,5 @@
+Q1: 8794991a
+Q2: 3
+Q3: git pull. I would run this command to download and combine my teammate's changes before pushing again
+Q4: No. The password is still in the Git history because .gitignore does not remove files that were already committed and pushed
+Q5: git branch -d old-fix. git push origin --delete old-fix
